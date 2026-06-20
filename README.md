@@ -4,6 +4,9 @@ A personal management system for tracking work projects, personal projects, and
 personal life. Everything is plain markdown — read or edit any file by hand, or
 let the Claude Code skills (`/daily`, `/weekly`) do the updating.
 
+> **New to GitHub or the command line?** Start with
+> **[GETTING-STARTED.md](GETTING-STARTED.md)** — a plain-language, no-code walkthrough.
+>
 > This is a starter template. Search for `<...>` placeholders and fill them in.
 > Delete the example project files once you've added your own.
 

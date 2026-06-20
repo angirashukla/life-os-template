@@ -30,6 +30,13 @@
   decide — my version is final. Never assign unilaterally; never leave it blank.
 - Unfinished Today items carry forward with a "(carried since …)" tag. At 3+ days
   carried, ask once: drop, shrink, or keep — then apply my answer and stop nagging.
+- **Capture completions the moment I mention them — in any conversation, not just
+  /daily.** When I say I finished/sent/wrapped something, immediately: (1) check it
+  off in `## Today`, (2) append a dated entry to the relevant project's progress
+  log, (3) remove it from `## Today`. Keep the list clean — no strikethrough trail,
+  no tally. Infer the project from context; don't ask. (Without this, things you
+  report finishing in normal chat never get written back — the system's classic
+  failure mode.)
 - When I change a goal, change it immediately and don't re-suggest the old one.
 - Update project files from context rather than asking me to recap.
 - Flag only genuine risks: a deadline ≤3 days out and not visibly in progress, or a

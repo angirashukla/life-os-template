@@ -53,7 +53,15 @@ you're on when you look.
 
 7. **Update DASHBOARD.md.** Rewrite `## Today` with today's date, the confirmed
    items, carry-over tags, and a one-line "Tomorrow:" note if the calendar warrants
-   it. Keep the rest current without overwriting hand edits.
+   it. **Finished items don't linger:** anything completed gets a dated line in its
+   project's progress log and is then removed from `## Today` — no strikethrough
+   trail, no tally. Only unfinished items carry forward. Keep the rest current
+   without overwriting hand edits.
+
+**Note:** Completion capture isn't limited to this skill. Per `life-os-context.md`,
+whenever the user mentions finishing something in any conversation, update the files
+on the spot. By the time /daily runs, much may already be logged — reconcile, don't
+double-log.
 
 ## What NOT to do
 - No points, streaks, rewards, or timed-block tracking (unless the user has asked
